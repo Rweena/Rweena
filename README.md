@@ -9,8 +9,7 @@ This GitHub is a collection of what I built. Some of it’s polished, some of it
 Feel free to explore the repos, and don’t hesitate to reach out.
 
 - 🔭 I’m currently working on a few frontend projects
-- 🌱 I’m currently learning fullstack web development
-- 📫 How to reach me: my accounts are under my bio 
+- 🌱 I’m currently learning fullstack web development 
 
 ---
 
